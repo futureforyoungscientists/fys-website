@@ -1,0 +1,150 @@
+.nebula {
+  background-color: #002e36;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  
+}
+
+.nebula .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1893px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.nebula .nebula-top {
+  height: 810px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.nebula .overlap-group {
+  background-color: #002e36;
+  height: 810px;
+  position: relative;
+  width: 100%;
+}
+
+.nebula .compact-menu {
+  height: 168px;
+  left: 72px;
+  position: absolute;
+  top: 48px;
+  width: 285px;
+}
+
+.nebula .text-wrapper {
+  color: #ffd6af;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  width: 188px;
+}
+
+.nebula .text-wrapper-2 {
+  color: #ffd6af;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 65px;
+  width: 109px;
+}
+
+.nebula .text-wrapper-3 {
+  color: #ffd6af;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 115px;
+  width: 147px;
+}
+
+.nebula .FYS-logo {
+  height: 168px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.nebula .h-1 {
+  color: #ffd6af;
+  font-family: "Montserrat", Helvetica;
+  font-size: 120px;
+  font-weight: 200;
+  height: 146px;
+  left: 676px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 59px;
+}
+
+.nebula .p {
+  color: #ffd6af;
+  font-family: "Montserrat", Helvetica;
+  font-size: 36px;
+  font-weight: 200;
+  height: 352px;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 338px;
+  width: 1197px;
+}
+
+.nebula .overlap {
+  background-color: #ffd6af;
+  height: 2483px;
+  left: 0;
+  position: absolute;
+  top: 810px;
+  width: 100%;
+}
+
+.nebula .text-wrapper-4 {
+  color: #002e36;
+  font-family: "Montserrat", Helvetica;
+  font-size: 120px;
+  font-weight: 200;
+  height: 146px;
+  left: 850px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 72px;
+}
+
+
+.nebula .calendar-wrapper {
+  height: 1480px;
+  left: 156px;
+  /* object-fit: cover; */
+  position: absolute;
+  top: 280px;
+  width: 1188px;
+  font-family: "Montserrat", Helvetica;
+}

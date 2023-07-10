@@ -1,0 +1,245 @@
+.about-us-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .about-us-page .div {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 12672px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+  }
+  
+  .about-us-page .about-us-top {
+    height: 810px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  
+  .about-us-page .overlap-group {
+    background-color: #002e36;
+    height: 810px;
+    position: relative;
+    width: 100%;
+  }
+  
+  
+  .about-us-page .FYS-logo {
+    height: 168px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 56px;
+  }
+  
+  .about-us-page .h-1 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 120px;
+    font-weight: 200;
+    height: 146px;
+    left: 870px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 59px;
+  }
+  
+  .about-us-page .p {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 36px;
+    font-weight: 200;
+    height: 264px;
+    left: 72px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 382px;
+    width: 1197px;
+  }
+  
+  .about-us-page .team-nebula {
+    height: 3954px;
+    left: 0;
+    position: absolute;
+    top: 810px;
+    width: 100%;
+  }
+  
+  .about-us-page .overlap {
+    /* background-image: url(../../../static/img/group1-bg.svg); */
+    /* background-size: 100% 100%; */
+    background-color: #ffd6af;
+    height: 3954px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .about-us-page .overlap-group-2 {
+    height: 820px;
+    left: 103px;
+    position: absolute;
+    top: 319px;
+    width: 100%;
+  }
+  
+  .about-us-page .sample-person {
+    height: 820px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  
+  .about-us-page .profile-pic {
+    height: 791px;
+    left: 566px;
+    object-fit: cover;
+    position: absolute;
+    top: 29px;
+    width: 703px;
+  }
+  
+  .about-us-page .text-wrapper-4 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 45px;
+    font-weight: 400;
+    height: 55px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 0;
+    width: 450px;
+  }
+  
+  .about-us-page .lorem-ipsum-dolor {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 754px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 66px;
+    width: 450px;
+  }
+  
+  .about-us-page .overlap-2 {
+    height: 820px;
+    left: 103px;
+    position: absolute;
+    top: 1205px;
+    width: 100%;
+  }
+  
+  .about-us-page .overlap-3 {
+    height: 820px;
+    left: 85px;
+    position: absolute;
+    top: 2091px;
+    width: 100%;
+  }
+  
+  .about-us-page .sample-person-2 {
+    height: 820px;
+    left: 85px;
+    position: absolute;
+    top: 3028px;
+    width: 100%;
+  }
+  
+  .about-us-page .text-wrapper-5 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 90px;
+    font-weight: 200;
+    height: 110px;
+    left: 669px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 104px;
+    width: 703px;
+  }
+  
+  .about-us-page .team-nova {
+    height: 3954px;
+    left: 0;
+    position: absolute;
+    top: 4764px;
+    width: 100%;
+  }
+  
+  .about-us-page .overlap-4 {
+    /* background-image: url(../../../static/img/nova-bg.svg);
+    background-size: 100% 100%; */
+    background-color: #f4d8c8;
+    height: 3954px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .about-us-page .text-wrapper-6 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 90px;
+    font-weight: 200;
+    height: 110px;
+    left: 669px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 123px;
+    width: 703px;
+  }
+  
+  .about-us-page .team-founders {
+    height: 3954px;
+    left: 0;
+    position: absolute;
+    top: 8718px;
+    width: 100%;
+  }
+  
+  .about-us-page .overlap-5 {
+    /* background-image: url(../../../static/img/founders-bg.svg);
+    background-size: 100% 100%; */
+    background-color: #76a5af;
+    height: 3954px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .about-us-page .text-wrapper-7 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 90px;
+    font-weight: 200;
+    height: 110px;
+    left: 651px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 152px;
+    width: 703px;
+  }
+  

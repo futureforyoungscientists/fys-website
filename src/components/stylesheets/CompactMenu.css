@@ -1,0 +1,64 @@
+
+
+.compact-menu {
+    height: 168px;
+    left: 72px;
+    position: absolute;
+    top: 48px;
+    width: 285px;
+  }
+
+.compact-menu  a {
+    color: #ffd6af;
+    text-decoration: none;
+}
+  
+.compact-menu .aboutus-compactMenu {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 91px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 15px;
+    width: 188px;
+    text-decoration: none;
+
+  }
+
+.compact-menu .blog-compactMenu {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 91px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 65px;
+    width: 109px;
+  }
+  
+.compact-menu  .socials-compactMenu {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 91px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 115px;
+    width: 147px;
+  }
+  
+.compact-menu  .FYSlogo-compactMenu {
+    height: 168px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 56px;
+  }

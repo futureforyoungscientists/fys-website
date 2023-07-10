@@ -1,0 +1,46 @@
+
+.social-media-menu .github-icon {
+    height: 150px;
+    left: 250px;
+    object-fit: cover;
+    position: absolute;
+    top: 320px;
+    width: 150px;
+  }
+  
+  .social-media-menu .instagram-icon {
+    height: 150px;
+    left: 449px;
+    object-fit: cover;
+    position: absolute;
+    top: 320px;
+    width: 150px;
+  }
+  
+  .social-media-menu .linkedin-icon {
+    height: 150px;
+    left: 1040px;
+    object-fit: cover;
+    position: absolute;
+    top: 320px;
+    width: 150px;
+  }
+  
+  .social-media-menu .facebook-icon {
+    height: 150px;
+    left: 648px;
+    object-fit: cover;
+    position: absolute;
+    top: 320px;
+    width: 150px;
+  }
+  
+  .social-media-menu .tiktok-icon {
+    height: 150px;
+    left: 847px;
+    object-fit: cover;
+    position: absolute;
+    top: 320px;
+    width: 150px;
+  }
+  
