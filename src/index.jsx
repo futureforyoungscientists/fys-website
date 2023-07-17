@@ -11,7 +11,7 @@ import { NebulaPage } from "./screens/NebulaPage/NebulaPage";
 
 const router = createBrowserRouter([
 {
-    path: "/home",
+    path: "/",
     element: <MainPage/>,
 },
 {
