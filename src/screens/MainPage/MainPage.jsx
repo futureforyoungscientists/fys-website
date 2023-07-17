@@ -114,7 +114,7 @@ export const MainPage = () => {
             <RevealFromLeft><div className="text-wrapper-15">follow our journey</div></RevealFromLeft>
             <RevealFromRight><div className="text-wrapper-16">reach us at futureforyoungscientists@gmail.com</div></RevealFromRight>
             <RevealFromLeft><SocialMediaMenu/></RevealFromLeft>
-            <RevealFromLeft><div className="text-wrapper-17"><HashLink smooth to="/home#top">return to home</HashLink></div></RevealFromLeft>
+            <RevealFromLeft><div className="text-wrapper-17"><HashLink smooth to="/#top">return to home</HashLink></div></RevealFromLeft>
           </div>
         </div>
       </div>
