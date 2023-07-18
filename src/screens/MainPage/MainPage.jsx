@@ -49,7 +49,7 @@ export const MainPage = () => {
           </div>
           <div className="welcome-section">
             <div className="overlap-2">
-              <RevealFromRight><div className="text-wrapper-2">welcome</div></RevealFromRight>
+              <RevealFromRight><div className="text-wrapper-2"><Link to="/mainpagemobile">welcome</Link>n</div></RevealFromRight>
               <RevealFromRight>
               <p className="welcome-message">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
