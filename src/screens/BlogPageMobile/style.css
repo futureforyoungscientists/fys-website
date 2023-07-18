@@ -1,0 +1,200 @@
+.blog-page-mobile {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .blog-page-mobile .overlap-wrapper {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 3986px;
+    overflow: hidden;
+    width: 390px;
+  }
+  
+  .blog-page-mobile .overlap {
+    height: 3986px;
+    position: relative;
+    width: 394px;
+  }
+  
+  .blog-page-mobile .header-section {
+    height: 925px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 394px;
+  }
+  
+  .blog-page-mobile .overlap-group {
+    background-color: #002e36;
+    height: 925px;
+    position: relative;
+    width: 390px;
+  }
+  
+  .blog-page-mobile .compact-menu {
+    height: 141px;
+    left: 48px;
+    position: absolute;
+    top: 77px;
+    width: 306px;
+  }
+  
+  .blog-page-mobile .text-wrapper {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+    width: 244px;
+  }
+  
+  .blog-page-mobile .div {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 50px;
+    width: 244px;
+  }
+  
+  .blog-page-mobile .text-wrapper-2 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 90px;
+    width: 244px;
+  }
+  
+  .blog-page-mobile .FYS-logo {
+    height: 141px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 39px;
+  }
+  
+  .blog-page-mobile .h-1 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 60px;
+    font-weight: 200;
+    height: 78px;
+    left: 84px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 265px;
+    width: 259px;
+  }
+  
+  .blog-page-mobile .p {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 304px;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 393px;
+    width: 295px;
+  }
+  
+  .blog-page-mobile .blogs {
+    background-color: #ffd6af;
+    height: 3061px;
+    left: 0;
+    position: absolute;
+    top: 925px;
+    width: 390px;
+  }
+  
+  .blog-page-mobile .sample-person {
+    height: 688px;
+    left: 48px;
+    position: absolute;
+    top: 37px;
+    width: 299px;
+  }
+  
+  .blog-page-mobile .text-wrapper-3 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 300;
+    height: 29px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 349px;
+    width: 295px;
+  }
+  
+  .blog-page-mobile .profile-pic {
+    height: 331px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 293px;
+  }
+  
+  .blog-page-mobile .lorem-ipsum-dolor {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 300px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 388px;
+    width: 293px;
+  }
+  
+  .blog-page-mobile .sample-person-2 {
+    height: 688px;
+    left: 48px;
+    position: absolute;
+    top: 1511px;
+    width: 299px;
+  }
+  
+  .blog-page-mobile .sample-person-3 {
+    height: 688px;
+    left: 48px;
+    position: absolute;
+    top: 2292px;
+    width: 299px;
+  }
+  
+  .blog-page-mobile .sample-person-4 {
+    height: 688px;
+    left: 48px;
+    position: absolute;
+    top: 763px;
+    width: 299px;
+  }
+  

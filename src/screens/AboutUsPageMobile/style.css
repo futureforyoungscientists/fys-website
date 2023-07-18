@@ -1,0 +1,251 @@
+.about-us-page-mobile {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .about-us-page-mobile .div {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 10306px;
+    overflow: hidden;
+    position: relative;
+    width: 390px;
+  }
+  
+  .about-us-page-mobile .header-section {
+    height: 925px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 394px;
+  }
+  
+  .about-us-page-mobile .overlap-group {
+    background-color: #002e36;
+    height: 925px;
+    position: relative;
+    width: 390px;
+  }
+  
+  .about-us-page-mobile .compact-menu {
+    height: 141px;
+    left: 48px;
+    position: absolute;
+    top: 127px;
+    width: 306px;
+  }
+  
+  .about-us-page-mobile .text-wrapper {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+    width: 244px;
+  }
+  
+  .about-us-page-mobile .text-wrapper-2 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 50px;
+    width: 244px;
+  }
+  
+  .about-us-page-mobile .text-wrapper-3 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 90px;
+    width: 244px;
+  }
+  
+  .about-us-page-mobile .FYS-logo {
+    height: 141px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 39px;
+  }
+  
+  .about-us-page-mobile .h-1 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 60px;
+    font-weight: 200;
+    height: 78px;
+    left: 78px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 328px;
+    width: 259px;
+  }
+  
+  .about-us-page-mobile .p {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 304px;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 482px;
+    width: 295px;
+  }
+  
+  .about-us-page-mobile .founders {
+    height: 3127px;
+    left: 1px;
+    position: absolute;
+    top: 7179px;
+    width: 392px;
+  }
+  
+  .about-us-page-mobile .overlap {
+    background-color: #76a5af;
+    height: 3127px;
+    position: relative;
+    width: 390px;
+  }
+  
+  .about-us-page-mobile .text-wrapper-4 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 36px;
+    font-weight: 200;
+    height: 44px;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 35px;
+  }
+  
+  .about-us-page-mobile .overlap-group-2 {
+    height: 688px;
+    left: 48px;
+    position: absolute;
+    top: 103px;
+    width: 299px;
+  }
+  
+  .about-us-page-mobile .sample-person {
+    height: 688px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 299px;
+  }
+  
+  .about-us-page-mobile .text-wrapper-5 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 300;
+    height: 29px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 349px;
+    width: 295px;
+  }
+  
+  .about-us-page-mobile .profile-pic {
+    height: 331px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 293px;
+  }
+  
+  .about-us-page-mobile .lorem-ipsum-dolor {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 300px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 388px;
+    width: 293px;
+  }
+  
+  .about-us-page-mobile .sample-person-2 {
+    height: 688px;
+    left: 48px;
+    position: absolute;
+    top: 1577px;
+    width: 299px;
+  }
+  
+  .about-us-page-mobile .sample-person-3 {
+    height: 688px;
+    left: 48px;
+    position: absolute;
+    top: 2358px;
+    width: 299px;
+  }
+  
+  .about-us-page-mobile .sample-person-4 {
+    height: 688px;
+    left: 48px;
+    position: absolute;
+    top: 829px;
+    width: 299px;
+  }
+  
+  .about-us-page-mobile .team-nebula {
+    height: 3127px;
+    left: 0;
+    position: absolute;
+    top: 925px;
+    width: 392px;
+  }
+  
+  .about-us-page-mobile .overlap-2 {
+    background-color: #ffd6af;
+    height: 3127px;
+    position: relative;
+    width: 390px;
+  }
+  
+  .about-us-page-mobile .team-nova {
+    height: 3127px;
+    left: 1px;
+    position: absolute;
+    top: 4052px;
+    width: 392px;
+  }
+  
+  .about-us-page-mobile .overlap-3 {
+    background-color: #f4d8c8c8;
+    height: 3127px;
+    position: relative;
+    width: 390px;
+  }
+  

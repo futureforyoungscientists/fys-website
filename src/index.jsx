@@ -2,13 +2,11 @@ import React from "react";
 import {createBrowserRouter, RouterProvider} from "react-router-dom";
 import ReactDOMClient from "react-dom/client";
 
-import { AboutUsPage } from "./screens/AboutUsPage/AboutUsPage";
-import { BlogPage } from "./screens/BlogPage/BlogPage";
-
-import { NovaPage } from "./screens/NovaPage/NovaPage";
-import { NebulaPage } from "./screens/NebulaPage/NebulaPage";
-
 import { MainPageBreakpoint } from "./breakpoints/MainPageBreakpoint";
+import { AboutUsPageBreakpoint } from "./breakpoints/AboutUsPageBreakpoint";
+import { BlogPageBreakpoint } from "./breakpoints/BlogPageBreakpoint";
+import { NovaBreakpoint } from "./breakpoints/NovaBreakpoints";
+import { NebulaBreakpoint } from "./breakpoints/NebulaBreakpoint";
 
 const router = createBrowserRouter([
 {
@@ -17,19 +15,19 @@ const router = createBrowserRouter([
 },
 {
     path: "/aboutUs",
-    element: <AboutUsPage/>,
+    element: <AboutUsPageBreakpoint/>,
 },
 {
     path: "/blog",
-    element: <BlogPage/>
+    element: <BlogPageBreakpoint/>
 },
 {
     path: "/nova",
-    element: <NovaPage/>
+    element: <NovaBreakpoint/>
 },
 {
     path: "/nebula",
-    element: <NebulaPage/>
+    element: <NebulaBreakpoint/>
 }
 ]);
 

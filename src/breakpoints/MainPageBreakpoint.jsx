@@ -3,9 +3,9 @@ import { MainPageMobile } from "../screens/MainPageMobile/MainPageMobile";
 import { MainPageDesktop } from "../screens/MainPageDesktop/MainPageDesktop";
 
 export const MainPageBreakpoint = () => {
-    const windowSize = useRef([window.innerWidth, window.innerHeight]);
+    const width = useRef([window.innerWidth, window.innerHeight]).current[0];
 
-    if (windowSize.current[0] > 1200) {
+    if (width.current[0] > 1200) {
         return (<MainPageDesktop/>);
     } 
     return (<MainPageMobile/>);

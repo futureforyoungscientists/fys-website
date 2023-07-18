@@ -1,0 +1,154 @@
+.nebula-mobile {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .nebula-mobile .overlap-wrapper {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 1568px;
+    overflow: hidden;
+    width: 390px;
+  }
+  
+  .nebula-mobile .overlap {
+    height: 1568px;
+    position: relative;
+    width: 394px;
+  }
+  
+  .nebula-mobile .header-section {
+    height: 925px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 394px;
+  }
+  
+  .nebula-mobile .overlap-group {
+    background-color: #002e36;
+    height: 925px;
+    position: relative;
+    width: 390px;
+  }
+  
+  .nebula-mobile .compact-menu {
+    height: 141px;
+    left: 48px;
+    position: absolute;
+    top: 77px;
+    width: 306px;
+  }
+  
+  .nebula-mobile .text-wrapper {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+    width: 244px;
+  }
+  
+  .nebula-mobile .div {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 50px;
+    width: 244px;
+  }
+  
+  .nebula-mobile .text-wrapper-2 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 90px;
+    width: 244px;
+  }
+  
+  .nebula-mobile .FYS-logo {
+    height: 141px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 39px;
+  }
+  
+  .nebula-mobile .text-wrapper-3 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 44px;
+    font-weight: 200;
+    height: 78px;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 265px;
+    width: 295px;
+  }
+  
+  .nebula-mobile .p {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 408px;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 393px;
+    width: 295px;
+  }
+  
+  .nebula-mobile .header-bg {
+    background-color: #ffd6af;
+    height: 643px;
+    left: 1px;
+    position: absolute;
+    top: 925px;
+    width: 390px;
+  }
+  
+  .nebula-mobile .profile-pic {
+    height: 331px;
+    left: 47px;
+    object-fit: cover;
+    position: absolute;
+    top: 1093px;
+    width: 293px;
+  }
+  
+  .nebula-mobile .h-1 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 54px;
+    font-weight: 200;
+    height: 78px;
+    left: 47px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 979px;
+    width: 295px;
+  }
+  
