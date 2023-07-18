@@ -49,7 +49,7 @@ export const MainPage = () => {
           </div>
           <div className="welcome-section">
             <div className="overlap-2">
-              <RevealFromRight><div className="text-wrapper-2"><Link to="/mainpagemobile">welcome</Link>n</div></RevealFromRight>
+              <RevealFromRight><div className="text-wrapper-2">welcome</div></RevealFromRight>
               <RevealFromRight>
               <p className="welcome-message">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
@@ -61,7 +61,7 @@ export const MainPage = () => {
               </RevealFromRight>
             </div>
           </div>
-          <RevealFromLeft><img className="translucent-logo" alt="Translucent logo" src="/img/translucent-logo-1.svg" /></RevealFromLeft>
+          <RevealFromLeft><Link to="/mainpagemobile"><img className="translucent-logo" alt="Translucent logo" src="/img/translucent-logo-1.svg" /></Link></RevealFromLeft>
         </div>
         <div id="top" className="header-section">
         <RevealFromRight>

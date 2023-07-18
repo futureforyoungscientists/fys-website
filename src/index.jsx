@@ -16,23 +16,23 @@ const router = createBrowserRouter([
     element: <MainPage/>,
 },
 {
-    path: "aboutUs",
+    path: "/aboutUs",
     element: <AboutUsPage/>,
 },
 {
-    path: "blog",
+    path: "/blog",
     element: <BlogPage/>
 },
 {
-    path: "nova",
+    path: "/nova",
     element: <NovaPage/>
 },
 {
-    path: "nebula",
+    path: "/nebula",
     element: <NebulaPage/>
 },
 {
-    path: "mainpagemobile",
+    path: "/mainpagemobile",
     element: <MainPageMobile/>
 }
 ]);
