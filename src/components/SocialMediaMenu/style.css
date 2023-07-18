@@ -1,0 +1,135 @@
+
+.social-media-menu .github-icon {
+    height: 150px;
+    left: 250px;
+    object-fit: cover;
+    position: absolute;
+    top: 320px;
+    width: 150px;
+  }
+  
+  .social-media-menu .instagram-icon {
+    height: 150px;
+    left: 449px;
+    object-fit: cover;
+    position: absolute;
+    top: 320px;
+    width: 150px;
+  }
+  
+  .social-media-menu .linkedin-icon {
+    height: 150px;
+    left: 1040px;
+    object-fit: cover;
+    position: absolute;
+    top: 320px;
+    width: 150px;
+  }
+  
+  .social-media-menu .facebook-icon {
+    height: 150px;
+    left: 648px;
+    object-fit: cover;
+    position: absolute;
+    top: 320px;
+    width: 150px;
+  }
+  
+  .social-media-menu .tiktok-icon {
+    height: 150px;
+    left: 847px;
+    object-fit: cover;
+    position: absolute;
+    top: 320px;
+    width: 150px;
+  }
+  
+
+  
+  .social-media-menu-mobile .socials {
+    height: 1065px;
+    left: 0;
+    position: absolute;
+    top: 3928px;
+    width: 100%;
+  }
+  
+  .social-media-menu-mobile .overlap-group {
+    background-color: #002e36;
+    height: 1065px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .social-media-menu-mobile .text-wrapper {
+    color: #ffffff;
+    font-family: "Montserrat", Helvetica;
+    font-size: 30px;
+    font-weight: 200;
+    height: 37px;
+    left: 101px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 954px;
+  }
+  
+  .social-media-menu-mobile .instagram-icon {
+    height: 125px;
+    left: 132px;
+    object-fit: cover;
+    position: absolute;
+    top: 172px;
+    width: 125px;
+  }
+  
+  .social-media-menu-mobile .github-icon {
+    height: 125px;
+    left: 132px;
+    object-fit: cover;
+    position: absolute;
+    top: 768px;
+    width: 125px;
+  }
+  
+  .social-media-menu-mobile .tiktok-icon{
+    height: 125px;
+    left: 132px;
+    object-fit: cover;
+    position: absolute;
+    top: 619px;
+    width: 125px;
+  }
+  
+  .social-media-menu-mobile .linkedin-icon {
+    height: 125px;
+    left: 132px;
+    object-fit: cover;
+    position: absolute;
+    top: 470px;
+    width: 125px;
+  }
+  
+  .social-media-menu-mobile .facebook-icon {
+    height: 125px;
+    left: 132px;
+    object-fit: cover;
+    position: absolute;
+    top: 321px;
+    width: 125px;
+  }
+  
+  .social-media-menu-mobile .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Montserrat", Helvetica;
+    font-size: 30px;
+    font-weight: 200;
+    height: 37px;
+    left: 63px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 96px;
+  }

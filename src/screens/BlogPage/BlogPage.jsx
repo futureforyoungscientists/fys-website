@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import { CompactMenu } from "../../components/CompactMenu";
+import { CompactMenu } from "../../components/CompactMenu/CompactMenu";
 import { RevealFromLeft } from "../../components/animations/RevealFromLeft";
 import { RevealFromRight } from "../../components/animations/RevealFromRight";
 

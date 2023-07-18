@@ -3,15 +3,13 @@ import { Link } from "react-router-dom";
 // import 'bootstrap/dist/css/bootstrap.css'
 import "./style.css";
 
-import { CompactMenu } from "../../components/CompactMenu";
-import {ReactComponent as FacebookLogo} from "../../../static/img/facebook-icon.svg"
-import { SocialMediaMenu } from "../../components/SocialMediaMenu";
+import { CompactMenu } from "../../components/CompactMenu/CompactMenu";
+import { SocialMediaMenu } from "../../components/SocialMediaMenu/SocialMediaMenu";
 import { RevealFromLeft } from "../../components/animations/RevealFromLeft";
 import { RevealFromRight } from "../../components/animations/RevealFromRight";
 import { HashLink } from "react-router-hash-link";
-import { Hover } from "../../components/animations/Hover";
 
-export const MainPage = () => {
+export const MainPageDesktop = () => {
   return (
     <div className="main-page">
       <div className="div">

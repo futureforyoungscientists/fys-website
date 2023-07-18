@@ -5,6 +5,10 @@
     justify-content: center;
     width: 100%;
   }
+  .main-page-mobile  a {
+    color: #ffd6af;
+    text-decoration: none;
+  }
   
   .main-page-mobile .div {
     background-color: #ffffff;
@@ -12,7 +16,7 @@
     height: 4993px;
     overflow: hidden;
     position: relative;
-    width: 390px;
+    width: 100%;
   }
   
   .main-page-mobile .socials {
@@ -20,14 +24,14 @@
     left: 0;
     position: absolute;
     top: 3928px;
-    width: 394px;
+    width: 100%;
   }
   
   .main-page-mobile .overlap-group {
     background-color: #002e36;
     height: 1065px;
     position: relative;
-    width: 390px;
+    width: 100%;
   }
   
   .main-page-mobile .text-wrapper {
@@ -108,14 +112,14 @@
     left: 0;
     position: absolute;
     top: 871px;
-    width: 394px;
+    width: 100%;
   }
   
   .main-page-mobile .overlap {
     background-color: #ffd6af;
     height: 856px;
     position: relative;
-    width: 390px;
+    width: 100%;
   }
   
   .main-page-mobile .lorem-ipsum-dolor {
@@ -151,14 +155,15 @@
     left: 0;
     position: absolute;
     top: 1727px;
-    width: 394px;
+    width: 100%;
+
   }
   
   .main-page-mobile .overlap-2 {
     background-color: #ffffff;
     height: 1254px;
     position: relative;
-    width: 390px;
+    width: 100%;
   }
   
   .main-page-mobile .p {
@@ -194,14 +199,14 @@
     left: 0;
     position: absolute;
     top: 0;
-    width: 390px;
+    width: 100%;
   }
   
   .main-page-mobile .compact-menu {
     height: 133px;
     left: 48px;
     position: absolute;
-    top: 120px;
+    top: 80px;
     width: 306px;
   }
   
@@ -255,9 +260,10 @@
   
   .main-page-mobile .selection-group {
     height: 108px;
+    /* left: calc(100%-200px); */
     left: 48px;
     position: absolute;
-    top: 303px;
+    top: 263px;
     width: 306px;
   }
   
@@ -311,7 +317,7 @@
     height: 334px;
     left: 48px;
     position: absolute;
-    top: 461px;
+    top: 421px;
     width: 283px;
   }
   
@@ -346,7 +352,7 @@
     left: 0;
     position: absolute;
     top: 2981px;
-    width: 400px;
+    width: 100%;
   }
   
   .main-page-mobile .parent-testimonials {
@@ -354,14 +360,14 @@
     left: 0;
     position: absolute;
     top: 0;
-    width: 400px;
+    width: 100%;
   }
   
   .main-page-mobile .overlap-4 {
     background-color: #f4d8c8;
     height: 947px;
     position: relative;
-    width: 390px;
+    width: 100%;
   }
   
   .main-page-mobile .parent-testimonials-2 {

@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
-import { CompactMenu } from "../../components/CompactMenu";
+import { CompactMenu } from "../../components/CompactMenu/CompactMenu";
 import { RevealFromRight } from "../../components/animations/RevealFromRight";
 import { RevealFromLeft } from "../../components/animations/RevealFromLeft";
 

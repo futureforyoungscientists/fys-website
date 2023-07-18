@@ -1,0 +1,121 @@
+
+.compact-menu-mobile {
+  height: 133px;
+  left: 48px;
+  position: absolute;
+  top: 80px;
+  width: 306px;
+}
+
+.compact-menu-mobile .text-wrapper-5 {
+  color: #ffd6af;
+  font-family: "Montserrat", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 244px;
+}
+
+.compact-menu-mobile .text-wrapper-6 {
+  color: #ffd6af;
+  font-family: "Montserrat", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  width: 244px;
+}
+
+.compact-menu-mobile .text-wrapper-7 {
+  color: #ffd6af;
+  font-family: "Montserrat", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 85px;
+  width: 244px;
+}
+
+.compact-menu-mobile .FYS-logo {
+  height: 133px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+
+
+.compact-menu-desktop {
+  height: 168px;
+  left: 72px;
+  position: absolute;
+  top: 48px;
+  width: 285px;
+}
+
+.compact-menu-desktop  a {
+  color: #ffd6af;
+  text-decoration: none;
+}
+
+.compact-menu-desktop .aboutus-compactMenu {
+  color: #ffd6af;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  width: 188px;
+  text-decoration: none;
+
+}
+
+.compact-menu-desktop .blog-compactMenu {
+  color: #ffd6af;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 65px;
+  width: 109px;
+}
+
+.compact-menu-desktop  .socials-compactMenu {
+  color: #ffd6af;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 115px;
+  width: 147px;
+}
+
+.compact-menu-desktop  .FYSlogo-compactMenu {
+  height: 168px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
