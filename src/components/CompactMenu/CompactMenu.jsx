@@ -25,9 +25,9 @@ export const CompactMenu = () => {
     return (
         
         <div className="compact-menu-mobile">
-            <div className="text-wrapper-5"><Link smooth to="/aboutUs">about us.</Link></div>
-            <div className="text-wrapper-6"><Link to="/blog">blog.</Link></div>
-            <div className="text-wrapper-7"><HashLink smooth to="/#socials">socials.</HashLink></div>
+            <div className="about-us"><Link smooth to="/aboutUs">about us.</Link></div>
+            <div className="blog"><Link to="/blog">blog.</Link></div>
+            <div className="socials-link"><HashLink smooth to="/#socials">socials.</HashLink></div>
             <Link to="/"><img className="FYS-logo" alt="Fys logo" src="/img/fys-logo-6-1.png" /></Link>
         </div>
             

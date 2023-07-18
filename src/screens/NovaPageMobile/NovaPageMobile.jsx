@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import { CompactMenu } from "../../components/CompactMenu/CompactMenu";
 
 export const NovaPageMobile = () => {
   return (
@@ -8,12 +9,13 @@ export const NovaPageMobile = () => {
         <div className="overlap">
           <div className="header-section">
             <div className="overlap-group">
-              <div className="compact-menu">
+              {/* <div className="compact-menu">
                 <div className="text-wrapper">about us.</div>
                 <div className="div">blog.</div>
                 <div className="text-wrapper-2">socials.</div>
                 <img className="FYS-logo" alt="Fys logo" src="/img/fys-logo-6-1.png" />
-              </div>
+              </div> */}
+              <CompactMenu/>
               <div className="text-wrapper-3">team nova</div>
               <p className="p">
                 Our classes are held Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

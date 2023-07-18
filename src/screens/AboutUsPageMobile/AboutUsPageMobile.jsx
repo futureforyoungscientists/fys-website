@@ -1,4 +1,6 @@
 import React from "react";
+import { CompactMenu } from "../../components/CompactMenu/CompactMenu";
+
 import "./style.css";
 
 export const AboutUsPageMobile = () => {
@@ -7,12 +9,13 @@ export const AboutUsPageMobile = () => {
       <div className="div">
         <div className="header-section">
           <div className="overlap-group">
-            <div className="compact-menu">
+            {/* <div className="compact-menu">
               <div className="text-wrapper">about us.</div>
               <div className="text-wrapper-2">blog.</div>
               <div className="text-wrapper-3">socials.</div>
               <img className="FYS-logo" alt="Fys logo" src="/img/fys-logo-6-1.png" />
-            </div>
+            </div> */}
+            <CompactMenu/>
             <h1 className="h-1">about us</h1>
             <p className="p">
               We founded FYS with the mission to inspire children to think critically, like scientists. We believe that

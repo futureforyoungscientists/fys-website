@@ -3,11 +3,16 @@
   height: 133px;
   left: 48px;
   position: absolute;
-  top: 30px;
+  top: 40px;
   width: 306px;
 }
 
-.compact-menu-mobile .text-wrapper-5 {
+.compact-menu-mobile  a {
+  color: #ffd6af;
+  text-decoration: none;
+}
+
+.compact-menu-mobile .about-us {
   color: #ffd6af;
   font-family: "Montserrat", Helvetica;
   font-size: 24px;
@@ -20,7 +25,7 @@
   width: 244px;
 }
 
-.compact-menu-mobile .text-wrapper-6 {
+.compact-menu-mobile .blog {
   color: #ffd6af;
   font-family: "Montserrat", Helvetica;
   font-size: 24px;
@@ -33,7 +38,7 @@
   width: 244px;
 }
 
-.compact-menu-mobile .text-wrapper-7 {
+.compact-menu-mobile .socials-link {
   color: #ffd6af;
   font-family: "Montserrat", Helvetica;
   font-size: 24px;

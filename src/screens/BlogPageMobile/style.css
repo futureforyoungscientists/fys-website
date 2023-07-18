@@ -11,13 +11,13 @@
     border: 1px none;
     height: 3986px;
     overflow: hidden;
-    width: 390px;
+    width: 100%;
   }
   
   .blog-page-mobile .overlap {
     height: 3986px;
     position: relative;
-    width: 394px;
+    width: 100%;
   }
   
   .blog-page-mobile .header-section {
@@ -25,14 +25,14 @@
     left: 0;
     position: absolute;
     top: 0;
-    width: 394px;
+    width: 100%;
   }
   
   .blog-page-mobile .overlap-group {
     background-color: #002e36;
     height: 925px;
     position: relative;
-    width: 390px;
+    width: 100%;
   }
   
   .blog-page-mobile .compact-menu {
@@ -126,7 +126,7 @@
     left: 0;
     position: absolute;
     top: 925px;
-    width: 390px;
+    width: 100%;
   }
   
   .blog-page-mobile .sample-person {

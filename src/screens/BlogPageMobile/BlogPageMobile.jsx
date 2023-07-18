@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import { CompactMenu } from "../../components/CompactMenu/CompactMenu";
 
 export const BlogPageMobile = () => {
   return (
@@ -8,12 +9,13 @@ export const BlogPageMobile = () => {
         <div className="overlap">
           <div className="header-section">
             <div className="overlap-group">
-              <div className="compact-menu">
+              {/* <div className="compact-menu">
                 <div className="text-wrapper">about us.</div>
                 <div className="div">blog.</div>
                 <div className="text-wrapper-2">socials.</div>
                 <img className="FYS-logo" alt="Fys logo" src="/img/fys-logo-6-1.png" />
-              </div>
+              </div> */}
+              <CompactMenu/>
               <h1 className="h-1">blog</h1>
               <p className="p">
                 Here on our blog page, you can see a summary of each of our classes and the fun experiments that were
