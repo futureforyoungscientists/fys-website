@@ -8,6 +8,7 @@ import { BlogPage } from "./screens/BlogPage/BlogPage";
 import 'bootstrap/dist/css/bootstrap.css'
 import { NovaPage } from "./screens/NovaPage/NovaPage";
 import { NebulaPage } from "./screens/NebulaPage/NebulaPage";
+import {MainPageMobile} from "./screens/MainPageMobile/MainPageMobile"
 
 const router = createBrowserRouter([
 {
@@ -29,6 +30,10 @@ const router = createBrowserRouter([
 {
     path: "nebula",
     element: <NebulaPage/>
+},
+{
+    path: "mainpagemobile",
+    element: <MainPageMobile/>
 }
 ]);
 

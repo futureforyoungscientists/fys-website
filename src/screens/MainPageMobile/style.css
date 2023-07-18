@@ -1,0 +1,440 @@
+.main-page-mobile {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .main-page-mobile .div {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 4993px;
+    overflow: hidden;
+    position: relative;
+    width: 390px;
+  }
+  
+  .main-page-mobile .socials {
+    height: 1065px;
+    left: 0;
+    position: absolute;
+    top: 3928px;
+    width: 394px;
+  }
+  
+  .main-page-mobile .overlap-group {
+    background-color: #002e36;
+    height: 1065px;
+    position: relative;
+    width: 390px;
+  }
+  
+  .main-page-mobile .text-wrapper {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 30px;
+    font-weight: 200;
+    height: 37px;
+    left: 101px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 954px;
+  }
+  
+  .main-page-mobile .profile-pic {
+    height: 125px;
+    left: 132px;
+    object-fit: cover;
+    position: absolute;
+    top: 172px;
+    width: 125px;
+  }
+  
+  .main-page-mobile .img {
+    height: 125px;
+    left: 132px;
+    object-fit: cover;
+    position: absolute;
+    top: 768px;
+    width: 125px;
+  }
+  
+  .main-page-mobile .profile-pic-2 {
+    height: 125px;
+    left: 132px;
+    object-fit: cover;
+    position: absolute;
+    top: 619px;
+    width: 125px;
+  }
+  
+  .main-page-mobile .profile-pic-3 {
+    height: 125px;
+    left: 132px;
+    object-fit: cover;
+    position: absolute;
+    top: 470px;
+    width: 125px;
+  }
+  
+  .main-page-mobile .profile-pic-4 {
+    height: 125px;
+    left: 132px;
+    object-fit: cover;
+    position: absolute;
+    top: 321px;
+    width: 125px;
+  }
+  
+  .main-page-mobile .text-wrapper-2 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 30px;
+    font-weight: 200;
+    height: 37px;
+    left: 63px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 96px;
+  }
+  
+  .main-page-mobile .welcome-section {
+    height: 856px;
+    left: 0;
+    position: absolute;
+    top: 871px;
+    width: 394px;
+  }
+  
+  .main-page-mobile .overlap {
+    background-color: #ffd6af;
+    height: 856px;
+    position: relative;
+    width: 390px;
+  }
+  
+  .main-page-mobile .lorem-ipsum-dolor {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18px;
+    font-weight: 200;
+    left: 70px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 148px;
+    width: 274px;
+  }
+  
+  .main-page-mobile .text-wrapper-3 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 54px;
+    font-weight: 200;
+    height: 66px;
+    left: 105px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 55px;
+  }
+  
+  .main-page-mobile .our-classes {
+    height: 1254px;
+    left: 0;
+    position: absolute;
+    top: 1727px;
+    width: 394px;
+  }
+  
+  .main-page-mobile .overlap-2 {
+    background-color: #ffffff;
+    height: 1254px;
+    position: relative;
+    width: 390px;
+  }
+  
+  .main-page-mobile .p {
+    color: #000000;
+    font-family: "Montserrat", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 885px;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 167px;
+    width: 279px;
+  }
+  
+  .main-page-mobile .text-wrapper-4 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 48px;
+    font-weight: 200;
+    height: 59px;
+    left: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 69px;
+  }
+  
+  .main-page-mobile .header-section {
+    background-color: #002e36;
+    height: 871px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 390px;
+  }
+  
+  .main-page-mobile .compact-menu {
+    height: 133px;
+    left: 48px;
+    position: absolute;
+    top: 120px;
+    width: 306px;
+  }
+  
+  .main-page-mobile .text-wrapper-5 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 10px;
+    width: 244px;
+  }
+  
+  .main-page-mobile .text-wrapper-6 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 47px;
+    width: 244px;
+  }
+  
+  .main-page-mobile .text-wrapper-7 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 85px;
+    width: 244px;
+  }
+  
+  .main-page-mobile .FYS-logo {
+    height: 133px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 39px;
+  }
+  
+  .main-page-mobile .selection-group {
+    height: 108px;
+    left: 48px;
+    position: absolute;
+    top: 303px;
+    width: 306px;
+  }
+  
+  .main-page-mobile .text-wrapper-8 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 200;
+    height: 22px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 0;
+    width: 300px;
+  }
+  
+  .main-page-mobile .text-wrapper-9 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 29px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 36px;
+    width: 300px;
+  }
+  
+  .main-page-mobile .text-wrapper-10 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    height: 29px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 79px;
+    width: 300px;
+  }
+  
+  .main-page-mobile .title {
+    height: 334px;
+    left: 48px;
+    position: absolute;
+    top: 461px;
+    width: 283px;
+  }
+  
+  .main-page-mobile .future-for-young {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 60px;
+    font-weight: 200;
+    height: 292px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .main-page-mobile .text-wrapper-11 {
+    color: #ffd6af;
+    font-family: "Montserrat", Helvetica;
+    font-size: 18px;
+    font-weight: 100;
+    height: 22px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 312px;
+  }
+  
+  .main-page-mobile .overlap-3 {
+    height: 947px;
+    left: 0;
+    position: absolute;
+    top: 2981px;
+    width: 400px;
+  }
+  
+  .main-page-mobile .parent-testimonials {
+    height: 947px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 400px;
+  }
+  
+  .main-page-mobile .overlap-4 {
+    background-color: #f4d8c8;
+    height: 947px;
+    position: relative;
+    width: 390px;
+  }
+  
+  .main-page-mobile .parent-testimonials-2 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 48px;
+    font-weight: 200;
+    height: 118px;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 47px;
+  }
+  
+  .main-page-mobile .text-wrapper-12 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    height: 126px;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 212px;
+    width: 288px;
+  }
+  
+  .main-page-mobile .text-wrapper-13 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    height: 126px;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 380px;
+    width: 288px;
+  }
+  
+  .main-page-mobile .text-wrapper-14 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    height: 126px;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 548px;
+    width: 288px;
+  }
+  
+  .main-page-mobile .text-wrapper-15 {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    height: 126px;
+    left: 52px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 716px;
+    width: 288px;
+  }
+  
