@@ -61,7 +61,7 @@ export const MainPage = () => {
               </RevealFromRight>
             </div>
           </div>
-          <RevealFromLeft><Link to="/mainpagemobile"><img className="translucent-logo" alt="Translucent logo" src="/img/translucent-logo-1.svg" /></Link></RevealFromLeft>
+          <RevealFromLeft><img className="translucent-logo" alt="Translucent logo" src="/img/translucent-logo-1.svg" /></RevealFromLeft>
         </div>
         <div id="top" className="header-section">
         <RevealFromRight>
