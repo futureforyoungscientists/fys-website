@@ -122,18 +122,18 @@
     width: 100%;
   }
   
-  .main-page-mobile .lorem-ipsum-dolor {
+  .main-page-mobile .welcome-blurb {
     color: #002e36;
     font-family: "Montserrat", Helvetica;
-    font-size: 18px;
-    font-weight: 200;
-    left: 70px;
+    font-size: 24px;
+    font-weight: 300;
+    left: 50px;
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
     text-align: right;
     top: 148px;
-    width: 274px;
+    width: 294px;
   }
   
   .main-page-mobile .text-wrapper-3 {
@@ -167,9 +167,9 @@
   }
   
   .main-page-mobile .p {
-    color: #000000;
+    color: #002e36;
     font-family: "Montserrat", Helvetica;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 400;
     height: 885px;
     left: 48px;
@@ -425,7 +425,7 @@
     line-height: normal;
     position: absolute;
     text-align: right;
-    top: 548px;
+    top: 508px;
     width: 288px;
   }
   
@@ -440,7 +440,7 @@
     line-height: normal;
     position: absolute;
     text-align: right;
-    top: 716px;
+    top: 686px;
     width: 288px;
   }
   
