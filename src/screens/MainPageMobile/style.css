@@ -127,12 +127,12 @@
     font-family: "Montserrat", Helvetica;
     font-size: 24px;
     font-weight: 300;
-    left: 50px;
+    left: 48px;
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
-    text-align: right;
-    top: 148px;
+    text-align: left;
+    top: 178px;
     width: 294px;
   }
   
@@ -142,11 +142,11 @@
     font-size: 54px;
     font-weight: 200;
     height: 66px;
-    left: 105px;
+    left: 48px;
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
-    text-align: right;
+    text-align: left;
     top: 55px;
   }
   
