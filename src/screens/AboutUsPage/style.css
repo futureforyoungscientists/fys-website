@@ -9,7 +9,7 @@
   .about-us-page .div {
     background-color: #ffffff;
     border: 1px none;
-    height: 12672px;
+    height: 11772px;
     overflow: hidden;
     position: relative;
     width: 100%;
@@ -69,7 +69,7 @@
   }
   
   .about-us-page .team-nebula {
-    height: 3954px;
+    height: 3054px;
     left: 0;
     position: absolute;
     top: 810px;
@@ -80,7 +80,7 @@
     /* background-image: url(../../../static/img/group1-bg.svg); */
     /* background-size: 100% 100%; */
     background-color: #ffd6af;
-    height: 3954px;
+    height: 3054px;
     position: relative;
     width: 100%;
   }
@@ -102,7 +102,7 @@
   }
   
   .about-us-page .profile-pic {
-    height: 791px;
+    height: 721px;
     left: 566px;
     object-fit: cover;
     position: absolute;
@@ -113,7 +113,7 @@
   .about-us-page .text-wrapper-4 {
     color: #002e36;
     font-family: "Montserrat", Helvetica;
-    font-size: 45px;
+    font-size: 40px;
     font-weight: 400;
     height: 55px;
     left: 0;
@@ -128,7 +128,7 @@
   .about-us-page .lorem-ipsum-dolor {
     color: #002e36;
     font-family: "Montserrat", Helvetica;
-    font-size: 24px;
+    font-size: 21px;
     font-weight: 400;
     height: 754px;
     left: 0;
@@ -144,7 +144,7 @@
     height: 820px;
     left: 103px;
     position: absolute;
-    top: 1205px;
+    top: 1255px;
     width: 100%;
   }
   
@@ -152,7 +152,7 @@
     height: 820px;
     left: 85px;
     position: absolute;
-    top: 2091px;
+    top: 2191px;
     width: 100%;
   }
   
@@ -183,7 +183,7 @@
     height: 3954px;
     left: 0;
     position: absolute;
-    top: 4764px;
+    top: 3864px;
     width: 100%;
   }
   
@@ -215,7 +215,7 @@
     height: 3954px;
     left: 0;
     position: absolute;
-    top: 8718px;
+    top: 7818px;
     width: 100%;
   }
   
