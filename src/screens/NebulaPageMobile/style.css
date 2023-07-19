@@ -130,13 +130,14 @@
     width: 100%;
   }
   
-  .nebula-mobile .profile-pic {
+  .nebula-mobile .calendar-wrapper {
     height: 2500px;
     left: 47px;
     object-fit: cover;
     position: absolute;
     top: 1093px;
     width: 80%;
+    font-family: "Montserrat", Helvetica;
   }
   
   .nebula-mobile .h-1 {

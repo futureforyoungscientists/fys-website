@@ -129,13 +129,14 @@
     width: 100%;
   }
   
-  .nova-mobile .profile-pic {
+  .nova-mobile .calendar-wrapper {
     height: 331px;
     left: 47px;
     object-fit: cover;
     position: absolute;
     top: 1093px;
     width: 293px;
+    font-family: "Montserrat", Helvetica;
   }
   
   .nova-mobile .h-1 {

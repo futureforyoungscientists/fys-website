@@ -43,7 +43,7 @@ export const NebulaPageMobile = () => {
             </div>
           </div>
           <div className="header-bg" />
-          <RevealFromRight><div className="profile-pic"><NebulaCalendar/></div></RevealFromRight>
+          <RevealFromRight><div className="calendar-wrapper"><NebulaCalendar/></div></RevealFromRight>
           
           <RevealFromLeft><h1 className="h-1">calendar</h1></RevealFromLeft>
         </div>
