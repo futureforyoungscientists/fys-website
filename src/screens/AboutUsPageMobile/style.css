@@ -118,7 +118,7 @@
   height: 3127px;
   left: 1px;
   position: absolute;
-  top: 7179px;
+  top: 6679px;
   width: 100%;
 }
 
@@ -150,7 +150,23 @@
   width: 299px;
 }
 
-.about-us-page-mobile .sample-person {
+.about-us-page-mobile .lauren {
+  height: 688px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 299px;
+}
+
+.about-us-page-mobile .siddh {
+  height: 688px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 299px;
+}
+
+.about-us-page-mobile .fiddi {
   height: 688px;
   left: 0;
   position: absolute;
@@ -195,32 +211,67 @@
   width: 293px;
 }
 
-.about-us-page-mobile .sample-person-2 {
+.about-us-page-mobile .aric {
   height: 688px;
   left: 48px;
   position: absolute;
   top: 1577px;
   width: 299px;
 }
-
-.about-us-page-mobile .sample-person-3 {
+.about-us-page-mobile .nikki {
   height: 688px;
   left: 48px;
   position: absolute;
-  top: 2358px;
+  top: 1747px;
+  width: 299px;
+}
+.about-us-page-mobile .annika {
+  height: 688px;
+  left: 48px;
+  position: absolute;
+  top: 1427px;
   width: 299px;
 }
 
-.about-us-page-mobile .sample-person-4 {
+.about-us-page-mobile .bilal {
   height: 688px;
   left: 48px;
   position: absolute;
-  top: 829px;
+  top: 2478px;
+  width: 299px;
+}
+.about-us-page-mobile .nav {
+  height: 688px;
+  left: 48px;
+  position: absolute;
+  top: 2298px;
+  width: 299px;
+}
+
+.about-us-page-mobile .birinder {
+  height: 688px;
+  left: 48px;
+  position: absolute;
+  top: 929px;
+  width: 299px;
+}
+.about-us-page-mobile .samiksha {
+  height: 688px;
+  left: 48px;
+  position: absolute;
+  top: 779px;
+  width: 299px;
+}
+.about-us-page-mobile .serena {
+  height: 688px;
+  left: 48px;
+  position: absolute;
+  top: 779px;
   width: 299px;
 }
 
 .about-us-page-mobile .team-nebula {
-  height: 3127px;
+  height: 2327px;
   left: 0;
   position: absolute;
   top: 925px;
@@ -229,22 +280,22 @@
 
 .about-us-page-mobile .overlap-2 {
   background-color: #ffd6af;
-  height: 3127px;
+  height: 2327px;
   position: relative;
   width: 100%;
 }
 
 .about-us-page-mobile .team-nova {
-  height: 3127px;
+  height: 3427px;
   left: 1px;
   position: absolute;
-  top: 4052px;
+  top: 3252px;
   width: 100%;
 }
 
 .about-us-page-mobile .overlap-3 {
   background-color: #f4d8c8c8;
-  height: 3127px;
+  height: 3427px;
   position: relative;
   width: 100%;
 }

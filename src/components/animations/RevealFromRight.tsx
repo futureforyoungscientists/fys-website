@@ -25,7 +25,7 @@ export const RevealFromRight = ({children, width}: Props) => {
     return (
         <div ref={ref} style={{position:"relative", width, overflow:"visible"}}>
             <motion.div variants={{hidden: {opacity:0, x:75}, visible: {opacity:1, x:0}}} initial="hidden" animate={mainControls}
-            transition={{duration:rand_duration, delay:0.1}}>
+            transition={{duration:rand_duration, delay:0.05}}>
                 
             {children}</motion.div>
 
