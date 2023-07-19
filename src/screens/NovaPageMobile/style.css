@@ -102,21 +102,21 @@
     line-height: normal;
     position: absolute;
     text-align: right;
-    top: 265px;
+    top: 235px;
     width: 295px;
   }
   
   .nova-mobile .p {
     color: #ffd6af;
     font-family: "Montserrat", Helvetica;
-    font-size: 18px;
-    font-weight: 400;
+    font-size: 14px;
+    font-weight: 200;
     height: 408px;
     left: 48px;
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
-    top: 393px;
+    top: 343px;
     width: 295px;
   }
   
