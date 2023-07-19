@@ -1,5 +1,7 @@
 import React from "react";
 import "./style.css";
+import { RevealFromRight } from "../../components/animations/RevealFromRight";
+import { RevealFromLeft } from "../../components/animations/RevealFromLeft";
 import { CompactMenu } from "../../components/CompactMenu/CompactMenu";
 import {NovaCalendar} from "../../components/NovaCalendar"
 
@@ -11,8 +13,9 @@ export const NovaPageMobile = () => {
           <div className="header-section">
             <div className="overlap-group">
               
-              <CompactMenu/>
-              <div className="text-wrapper-3">team nova</div>
+              <RevealFromLeft><CompactMenu/></RevealFromLeft>
+              <RevealFromRight><div className="text-wrapper-3">team nova</div></RevealFromRight>
+              <RevealFromLeft>
               <p className="p">
                 Our classes are held Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
@@ -20,12 +23,12 @@ export const NovaPageMobile = () => {
                 velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
                 in culpa qui officia deserunt mollit anim id est laborum.runt mollit anim id est laborum.
               </p>
+              </RevealFromLeft>
             </div>
           </div>
           <div className="header-bg" />
-          {/* <img className="profile-pic" alt="Profile pic" src="/img/profile-pic-1.png" /> */}
-          <div className="profile-pic"><NovaCalendar/></div>
-          <h1 className="h-1">calendar</h1>
+          <RevealFromRight><div className="profile-pic"><NovaCalendar/></div></RevealFromRight>
+          <RevealFromLeft><h1 className="h-1">calendar</h1></RevealFromLeft>
         </div>
       </div>
     </div>
