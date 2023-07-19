@@ -1,6 +1,8 @@
 import React from "react";
 import { CompactMenu } from "../../components/CompactMenu/CompactMenu";
 import "./style.css";
+import { Calendar } from "react-big-calendar";
+import { NebulaCalendar } from "../../components/NebulaCalendar";
 
 export const NebulaPageMobile = () => {
   return (
@@ -27,7 +29,9 @@ export const NebulaPageMobile = () => {
             </div>
           </div>
           <div className="header-bg" />
-          <img className="profile-pic" alt="Profile pic" src="/img/profile-pic-1.png" />
+          {/* <img className="profile-pic" alt="Profile pic" src="/img/profile-pic-1.png" /> */}
+          <div className="profile-pic"><NebulaCalendar/></div>
+          
           <h1 className="h-1">calendar</h1>
         </div>
       </div>

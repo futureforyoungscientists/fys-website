@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 import { CompactMenu } from "../../components/CompactMenu/CompactMenu";
+import {NovaCalendar} from "../../components/NovaCalendar"
 
 export const NovaPageMobile = () => {
   return (
@@ -9,12 +10,7 @@ export const NovaPageMobile = () => {
         <div className="overlap">
           <div className="header-section">
             <div className="overlap-group">
-              {/* <div className="compact-menu">
-                <div className="text-wrapper">about us.</div>
-                <div className="div">blog.</div>
-                <div className="text-wrapper-2">socials.</div>
-                <img className="FYS-logo" alt="Fys logo" src="/img/fys-logo-6-1.png" />
-              </div> */}
+              
               <CompactMenu/>
               <div className="text-wrapper-3">team nova</div>
               <p className="p">
@@ -27,7 +23,8 @@ export const NovaPageMobile = () => {
             </div>
           </div>
           <div className="header-bg" />
-          <img className="profile-pic" alt="Profile pic" src="/img/profile-pic-1.png" />
+          {/* <img className="profile-pic" alt="Profile pic" src="/img/profile-pic-1.png" /> */}
+          <div className="profile-pic"><NovaCalendar/></div>
           <h1 className="h-1">calendar</h1>
         </div>
       </div>
