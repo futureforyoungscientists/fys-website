@@ -7,9 +7,10 @@
   }
   
   .blog-page .div {
-    background-color: #ffffff;
+    background-color: #002e36;
     border: 1px none;
-    height: 2738px;
+    /* height: 2738px; */
+    height: 900px;
     overflow: hidden;
     position: relative;
     width: 100%;

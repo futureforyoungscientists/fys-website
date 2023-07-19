@@ -13,12 +13,12 @@ export const BlogPage = () => {
             <RevealFromLeft><CompactMenu/></RevealFromLeft>
             <RevealFromRight><h1 className="h-1">blog</h1></RevealFromRight>
             <RevealFromLeft><p className="p">
-              Here on our blog page, you can see a summary of each of our classes and the fun experiments that were
-              carried out! It gets updated after every class so stay tuned!
+                Here on our blog page, you can see a summary of each of our classes and the fun experiments that were
+                carried out! It will get updated soon, so stay up to date on our socials!
             </p></RevealFromLeft>
           </div>
         </div>
-        <div className="overlap">
+        {/* <div className="overlap">
           <div className="sample-blog">
             <RevealFromRight><img className="profile-pic" alt="Profile pic" src="/img/profile-pic-1.png" /></RevealFromRight>
             <RevealFromLeft><div className="text-wrapper-4">June 29th, 2023</div></RevealFromLeft>
@@ -53,7 +53,7 @@ export const BlogPage = () => {
               mollit anim id est laborum.
             </p></RevealFromLeft>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );

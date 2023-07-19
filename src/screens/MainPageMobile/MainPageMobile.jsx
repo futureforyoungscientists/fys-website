@@ -19,7 +19,7 @@ export const MainPageMobile = () => {
       
         <div className="welcome-section">
           <div className="overlap">
-            <RevealFromRight>
+            <RevealFromLeft>
             <p className="welcome-blurb">
             Future for Young Scientists is an organization that seeks to spread the knowledge 
             of STEM to children by indulging in fun and engaging at-home experiments. With the 
@@ -27,10 +27,10 @@ export const MainPageMobile = () => {
             nearly 200 different students since then from all across the globe. We hope to continue 
             to foster growth in our young scientists so explore our website to learn more!
             </p>
-            </RevealFromRight>
-            <RevealFromRight>
+            </RevealFromLeft>
+            <RevealFromLeft>
             <div className="text-wrapper-3">welcome</div>
-            </RevealFromRight>
+            </RevealFromLeft>
           </div>
         </div>
         <div className="our-classes">

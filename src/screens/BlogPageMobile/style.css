@@ -9,7 +9,8 @@
   .blog-page-mobile .overlap-wrapper {
     background-color: #ffffff;
     border: 1px none;
-    height: 3986px;
+    /* height: 3986px; */
+    height: 900px;
     overflow: hidden;
     width: 100%;
   }
