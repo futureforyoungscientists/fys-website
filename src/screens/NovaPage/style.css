@@ -137,6 +137,20 @@
     text-align: right;
     top: 72px;
   }
+
+  .nova .click-here {
+    color: #002e36;
+    font-family: "Montserrat", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    height: 146px;
+    left: 156px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+    top: 145px;
+  }
   
   
   .nova .calendar-wrapper {
@@ -147,4 +161,5 @@
     top: 280px;
     width: 1188px;
     font-family: "Montserrat", Helvetica;
+    font-size: 12px;
   }

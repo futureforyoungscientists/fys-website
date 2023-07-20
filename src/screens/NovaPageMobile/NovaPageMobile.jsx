@@ -38,6 +38,8 @@ export const NovaPageMobile = () => {
           <div className="header-bg" />
           <RevealFromRight><div className="calendar-wrapper"><NovaCalendar/></div></RevealFromRight>
           <RevealFromLeft><h1 className="h-1">calendar</h1></RevealFromLeft>
+          <RevealFromLeft><b><h1 className="h-2">click each event for more info</h1></b></RevealFromLeft>
+          
         </div>
       </div>
     </div>

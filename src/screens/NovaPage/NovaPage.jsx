@@ -32,6 +32,7 @@ export const NovaPage = () => {
         </div>
         <div className="overlap">
           <RevealFromRight><div className="text-wrapper-4">calendar</div></RevealFromRight>
+          <RevealFromLeft><em><div className="click-here">click each event for more info</div></em></RevealFromLeft>
           <RevealFromLeft><div className="calendar-wrapper"><NovaCalendar/></div></RevealFromLeft>
         </div>
         
