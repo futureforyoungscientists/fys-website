@@ -9,8 +9,10 @@ export const AboutUsPage = () => {
   return (
     <div className="about-us-page">
       <div className="div">
+        
         <div className="about-us-top">
           <div className="overlap-group">
+          <div className="content-container">
             <RevealFromLeft><CompactMenu/></RevealFromLeft>
             <RevealFromRight><h1 className="h-1">about us</h1></RevealFromRight>
             <RevealFromLeft><div><p className="p">
@@ -23,6 +25,7 @@ export const AboutUsPage = () => {
         </div>
         <div className="team-nebula">
           <div className="overlap">
+          <div className="content-container">
             <div className="overlap-group-2">
               <div className="sample-person">
                 <RevealFromRight><img className="profile-pic" alt="Profile pic" src="/img/Headshots/Lauren.png" /></RevealFromRight>
@@ -77,9 +80,11 @@ export const AboutUsPage = () => {
             
             <RevealFromRight><div className="text-wrapper-5">team nebula</div></RevealFromRight>
           </div>
+          </div>
         </div>
         <div className="team-nova">
           <div className="overlap-4">
+          <div className="content-container">
             <div className="overlap-group-2">
             <div className="sample-person">
                 <RevealFromRight><img className="profile-pic" alt="Profile pic" src="/img/Headshots/Siddh.jpg" /></RevealFromRight>
@@ -156,9 +161,11 @@ export const AboutUsPage = () => {
               </div>
             <div className="text-wrapper-6">team nova</div>
           </div>
+          </div>
         </div>
         <div className="team-founders">
           <div className="overlap-5">
+          <div className="content-container">
             <div className="overlap-group-2">
               
             <div className="sample-person">
@@ -231,6 +238,8 @@ export const AboutUsPage = () => {
               </div>
             <div className="text-wrapper-7">founders</div>
           </div>
+          </div>
+        </div>
         </div>
       </div>
     </div>

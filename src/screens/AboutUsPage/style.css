@@ -9,10 +9,17 @@
   .about-us-page .div {
     background-color: #ffffff;
     border: 1px none;
-    height: 11772px;
+    height: 9872px;
     overflow: hidden;
     position: relative;
     width: 100%;
+  }
+
+  .about-us-page .content-container {
+    width: 1300px;
+    height: 100%;
+    left: calc(50% - 650px);
+    position: relative;
   }
   
   .about-us-page .about-us-top {
@@ -46,7 +53,7 @@
     font-size: 120px;
     font-weight: 200;
     height: 146px;
-    left: 870px;
+    left: 700px;
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
@@ -57,7 +64,7 @@
   .about-us-page .p {
     color: #ffd6af;
     font-family: "Montserrat", Helvetica;
-    font-size: 36px;
+    font-size: 32px;
     font-weight: 200;
     height: 264px;
     left: 72px;
@@ -65,11 +72,11 @@
     line-height: normal;
     position: absolute;
     top: 382px;
-    width: 1197px;
+    width: 1107px;
   }
   
   .about-us-page .team-nebula {
-    height: 3054px;
+    height: 2554px;
     left: 0;
     position: absolute;
     top: 810px;
@@ -80,7 +87,7 @@
     /* background-image: url(../../../static/img/group1-bg.svg); */
     /* background-size: 100% 100%; */
     background-color: #ffd6af;
-    height: 3054px;
+    height: 2554px;
     position: relative;
     width: 100%;
   }
@@ -102,12 +109,12 @@
   }
   
   .about-us-page .profile-pic {
-    height: 721px;
-    left: 566px;
+    height: 580px;
+    left: 516px;
     object-fit: cover;
     position: absolute;
     top: 29px;
-    width: 703px;
+    width: 580px;
   }
   
   .about-us-page .text-wrapper-4 {
@@ -128,7 +135,7 @@
   .about-us-page .lorem-ipsum-dolor {
     color: #002e36;
     font-family: "Montserrat", Helvetica;
-    font-size: 21px;
+    font-size: 18px;
     font-weight: 400;
     height: 754px;
     left: 0;
@@ -144,7 +151,7 @@
     height: 820px;
     left: 103px;
     position: absolute;
-    top: 1255px;
+    top: 1055px;
     width: 100%;
   }
   
@@ -152,7 +159,7 @@
     height: 820px;
     left: 85px;
     position: absolute;
-    top: 2191px;
+    top: 1791px;
     width: 100%;
   }
   
@@ -160,7 +167,7 @@
     height: 820px;
     left: 85px;
     position: absolute;
-    top: 3028px;
+    top: 2528px;
     width: 100%;
   }
   
@@ -170,7 +177,7 @@
     font-size: 90px;
     font-weight: 200;
     height: 110px;
-    left: 669px;
+    left: 500px;
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
@@ -180,10 +187,10 @@
   }
   
   .about-us-page .team-nova {
-    height: 3954px;
+    height: 3254px;
     left: 0;
     position: absolute;
-    top: 3864px;
+    top: 3364px;
     width: 100%;
   }
   
@@ -191,7 +198,7 @@
     /* background-image: url(../../../static/img/nova-bg.svg);
     background-size: 100% 100%; */
     background-color: #f4d8c8;
-    height: 3954px;
+    height: 3254px;
     position: relative;
     width: 100%;
   }
@@ -202,7 +209,7 @@
     font-size: 90px;
     font-weight: 200;
     height: 110px;
-    left: 669px;
+    left: 500px;
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
@@ -212,10 +219,10 @@
   }
   
   .about-us-page .team-founders {
-    height: 3954px;
+    height: 3254px;
     left: 0;
     position: absolute;
-    top: 7818px;
+    top: 6618px;
     width: 100%;
   }
   
@@ -223,7 +230,7 @@
     /* background-image: url(../../../static/img/founders-bg.svg);
     background-size: 100% 100%; */
     background-color: #76a5af;
-    height: 3954px;
+    height: 3254px;
     position: relative;
     width: 100%;
   }
@@ -234,7 +241,7 @@
     font-size: 90px;
     font-weight: 200;
     height: 110px;
-    left: 651px;
+    left: 500px;
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
