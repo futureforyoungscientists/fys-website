@@ -80,7 +80,7 @@ export const AboutUsPage = () => {
             
             <RevealFromRight><div className="text-wrapper-5">team nebula</div></RevealFromRight>
           </div>
-          </div>
+        </div>
         </div>
         <div className="team-nova">
           <div className="overlap-4">
@@ -161,7 +161,7 @@ export const AboutUsPage = () => {
               </div>
             <div className="text-wrapper-6">team nova</div>
           </div>
-          </div>
+        </div>
         </div>
         <div className="team-founders">
           <div className="overlap-5">
@@ -208,17 +208,15 @@ export const AboutUsPage = () => {
                 <RevealFromRight><img className="profile-pic" alt="Profile pic" src="/img/Headshots/Aric.png" /></RevealFromRight>
                 <RevealFromLeft><div className="text-wrapper-4">Aric Peng</div></RevealFromLeft>
                 <RevealFromLeft><div><p className="lorem-ipsum-dolor">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                  aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                  officia deserunt mollit anim id est laborum.
-                  <br />
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                  aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                  officia deserunt mollit anim id est laborum.
+                Aric Peng is a driven and accomplished individual currently pursuing Mechanical and Computer Engineering at Boston University.
+                As a dedicated junior, Aric has already made significant strides in the world of technology and research.
+                Having a keen interest in the intersection of biology and engineering, Aric gained valuable expertise in bioinformatics data analysis during his time at Cold Spring Harbor.
+                This experience honed his analytical skills and broadened his understanding of genomic models, data analysis, and machine learning.
+                At the BU Biomorpable Robotics Laboratory, Aric serves as a research assistant, contributing to the development of surgical robotics aimed at improving trauma response. 
+                His passion for robotics and commitment to the advancement of minimally invasive medical technology to improve patient outcomes and recovery times.
+                This summer, Aric had the opportunity to expand his knowledge further at General Electric Aerospace.
+                There, he delved into the world of jet engine manufacturing and software development, striving to optimize production speeds and enhance aerospace technology.
+                Aric looks forward to further challenges and opportunities, he remains dedicated to making a meaningful impact in the field of engineering and beyond.
                 </p></div></RevealFromLeft>
               </div>
             </div>
@@ -238,9 +236,9 @@ export const AboutUsPage = () => {
               </div>
             <div className="text-wrapper-7">founders</div>
           </div>
-          </div>
         </div>
-        </div>
+      </div>
+    </div>
       </div>
     </div>
   );
