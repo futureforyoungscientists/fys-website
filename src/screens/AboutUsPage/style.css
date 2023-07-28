@@ -15,7 +15,7 @@
     width: 100%;
   }
 
-  .about-us-page .content-container {
+  .about-us-page .content-centering-container {
     width: 1300px;
     height: 100%;
     left: calc(50% - 650px);
