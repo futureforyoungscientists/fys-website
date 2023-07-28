@@ -14,12 +14,15 @@ export const MainPageMobile = () => {
     <div className="main-page-mobile">
       <div className="div">
         <div id="socials" className="socials">
+          
           <RevealFromLeft><SocialMediaMenu/></RevealFromLeft>
+          
         </div>
       
         <div className="welcome-section">
           <div className="overlap">
-            <RevealFromLeft>
+          <div className="content-centering-container">
+          <RevealFromLeft>
             <p className="welcome-blurb">
             Future for Young Scientists is an organization that seeks to spread the knowledge 
             of STEM to children by indulging in fun and engaging at-home experiments. With the 
@@ -32,9 +35,11 @@ export const MainPageMobile = () => {
             <div className="text-wrapper-3">welcome</div>
             </RevealFromLeft>
           </div>
+          </div>
         </div>
         <div className="our-classes">
           <div className="overlap-2">
+            <div className="content-centering-container">
             <RevealFromLeft><p className="p">
               Our <b>free weekly online science classes</b> for children are geared toward children in grades 2-7 to convey advanced 
               science topics by conducting experiments that utilize household materials, allowing us to achieve our goal 
@@ -61,9 +66,11 @@ export const MainPageMobile = () => {
               
             </p></RevealFromLeft>
             <RevealFromLeft><div className="text-wrapper-4">our classes</div></RevealFromLeft>
+            </div>
           </div>
         </div>
         <div id="top" className="header-section">
+          <div className="content-centering-container">
           <RevealFromLeft><CompactMenu/></RevealFromLeft>
           <RevealFromRight>
             <div className="selection-group">
@@ -84,10 +91,12 @@ export const MainPageMobile = () => {
             </RevealFromLeft>
             <RevealFromLeft><div className="text-wrapper-11">advancing the future</div></RevealFromLeft>
           </div>
+          </div>
         </div>
         <div className="overlap-3">
           <div className="parent-testimonials">
             <div className="overlap-4">
+              <div className="content-centering-container">
               <RevealFromRight><div className="parent-testimonials-2">
                 parent
                 <br />
@@ -122,6 +131,7 @@ export const MainPageMobile = () => {
               <br/> <b>— Marilyn P.K.</b>
               </p>
               </RevealFromRight>
+              </div>
             </div>
           </div>
           

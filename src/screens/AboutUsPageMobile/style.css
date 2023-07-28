@@ -15,6 +15,13 @@
   width: 100%;
 }
 
+.about-us-page-mobile .content-centering-container {
+  width: 400px;
+  height: 100%;
+  left: calc(50% - 200px);
+  position: relative;
+}
+
 .about-us-page-mobile .header-section {
   height: 925px;
   left: 0;

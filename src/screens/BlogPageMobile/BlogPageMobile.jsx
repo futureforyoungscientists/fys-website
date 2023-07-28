@@ -11,7 +11,8 @@ export const BlogPageMobile = () => {
         <div className="overlap">
           <div className="header-section">
             <div className="overlap-group">
-              {/* <div className="compact-menu">
+              <div className="content-centering-container">
+                {/* <div className="compact-menu">
                 <div className="text-wrapper">about us.</div>
                 <div className="div">blog.</div>
                 <div className="text-wrapper-2">socials.</div>
@@ -29,6 +30,7 @@ export const BlogPageMobile = () => {
                 carried out! It will get updated soon, so stay up to date on our socials!
               </p>
               </RevealFromLeft>
+              </div>
             </div>
           </div>
           {/* <div className="blogs">

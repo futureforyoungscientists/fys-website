@@ -11,7 +11,7 @@ export const AboutUsPageMobile = () => {
       <div className="div">
         <div className="header-section">
           <div className="overlap-group">
-            
+            <div className="content-centering-container">
             <RevealFromLeft><CompactMenu/></RevealFromLeft>
             <RevealFromRight><h1 className="h-1">about us</h1></RevealFromRight>
             <RevealFromLeft><p className="p">
@@ -20,10 +20,12 @@ export const AboutUsPageMobile = () => {
               the STEM field. Through the engaging nature of hands-on learning, lessons become more appealing and fun
               while bringing out the inner curiosity that is present in every child.
             </p></RevealFromLeft>
+            </div>
           </div>
         </div>
         <div className="founders">
           <div className="overlap">
+            <div className="content-centering-container">
             <RevealFromLeft><div className="text-wrapper-4">founders</div></RevealFromLeft>
             <div className="overlap-group-2">
               <div className="fiddi">
@@ -99,10 +101,12 @@ export const AboutUsPageMobile = () => {
                 </p>
                 </RevealFromLeft>
               </div>
+              </div>
           </div>
         </div>
         <div className="team-nebula">
           <div className="overlap-2">
+            <div className="content-centering-container">
             <div className="text-wrapper-4">team nebula</div>
             <div className="overlap-group-2">
               <div className="lauren">
@@ -157,10 +161,12 @@ export const AboutUsPageMobile = () => {
                 </p>
                 </RevealFromLeft>
               </div>
+              </div>
           </div>
         </div>
         <div className="team-nova">
           <div className="overlap-3">
+            <div className="content-centering-container">
             <div className="text-wrapper-4">team nova</div>
             <div className="overlap-group-2">
               <div className="siddh">
@@ -238,6 +244,7 @@ export const AboutUsPageMobile = () => {
 
                 </p>
                 </RevealFromLeft>
+              </div>
               </div>
           </div>
         </div>

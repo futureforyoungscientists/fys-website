@@ -7,6 +7,8 @@
     top: 320px;
     width: 150px;
   }
+
+ 
   
   .social-media-menu .instagram-icon {
     height: 150px;
@@ -52,6 +54,13 @@
     position: absolute;
     top: 3928px;
     width: 100%;
+  }
+  
+  .social-media-menu-mobile .content-centering-container {
+    width: 400px;
+    height: 100%;
+    left: calc(50% - 200px);
+    position: relative;
   }
   
   .social-media-menu-mobile .overlap-group {

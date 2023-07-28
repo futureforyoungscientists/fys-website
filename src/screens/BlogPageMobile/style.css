@@ -14,6 +14,13 @@
     overflow: hidden;
     width: 100%;
   }
+
+  .blog-page-mobile .content-centering-container {
+    width: 400px;
+    height: 100%;
+    left: calc(50% - 200px);
+    position: relative;
+  }
   
   .blog-page-mobile .overlap {
     height: 3986px;

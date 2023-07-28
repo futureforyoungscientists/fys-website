@@ -9,6 +9,13 @@
     color: #ffd6af;
     text-decoration: none;
   }
+
+  .main-page-mobile .content-centering-container {
+    width: 400px;
+    height: 100%;
+    left: calc(50% - 200px);
+    position: relative;
+  }
   
   .main-page-mobile .div {
     background-color: #ffffff;

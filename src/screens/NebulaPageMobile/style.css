@@ -13,6 +13,13 @@
     overflow: hidden;
     width: 100%;
   }
+
+  .nebula-mobile .content-centering-container {
+    width: 400px;
+    height: 100%;
+    left: calc(50% - 200px);
+    position: relative;
+  }
   
   .nebula-mobile .overlap {
     height: 1568px;

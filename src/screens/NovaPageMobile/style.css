@@ -5,6 +5,20 @@
     justify-content: center;
     width: 100%;
   }
+
+  .nova-mobile .content-centering-container {
+    width: 400px;
+    height: 100%;
+    left: calc(50% - 200px);
+    position: relative;
+  }
+
+  .nova-mobile .compact-menu-wrapper {
+    /* left: calc(50% - 200px); */
+    left: 300px;
+    /* width: 350px;
+    height: 350px; */
+  }
   
   .nova-mobile .overlap-wrapper {
     background-color: #ffffff;
@@ -136,6 +150,7 @@
     position: absolute;
     top: 1093px;
     width: 293px;
+    /* width: calc(75vw); */
     font-family: "Montserrat", Helvetica;
     font-size: 12px;
   }
