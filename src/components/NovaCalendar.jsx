@@ -68,7 +68,7 @@ export const NovaCalendar = () => {
       start: moment("07/23/2023 10:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("07/23/2023 11:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/ES_07_23_caesar_cipher_1.pdf",
+      event_pdf_filepath: "/nova_pdfs/ES_07_23_07_25_encryption_and_decryption_activity",
     },
     {
       cohort:"nova",
@@ -77,7 +77,7 @@ export const NovaCalendar = () => {
       start: moment("07/23/2023 11:30 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("07/23/2023 12:30 PM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/MS_07_23_public_key_cryptography.pdf",
+      event_pdf_filepath: "/nova_pdfs/MS_07_23_public-key_cryptography.pdf",
     },
     {
       cohort:"nova",
@@ -86,7 +86,7 @@ export const NovaCalendar = () => {
       start: moment("07/25/2023 10:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("07/25/2023 11:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/ES_07_25_caesar_cipher_2.pdf",
+      event_pdf_filepath: "/nova_pdfs/ES_07_23_07_25_encryption_and_decryption_activity",
     },
     {
       cohort:"nova",
