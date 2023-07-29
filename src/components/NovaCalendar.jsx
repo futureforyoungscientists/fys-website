@@ -68,7 +68,7 @@ export const NovaCalendar = () => {
       start: moment("07/23/2023 10:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("07/23/2023 11:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/ES_07_23_caesar_cipher_1.pdf",
+      event_pdf_filepath: "/nova_pdfs/ES_07_23_07_25_encryption_and_decryption_activity",
     },
     {
       cohort:"nova",
@@ -77,7 +77,7 @@ export const NovaCalendar = () => {
       start: moment("07/23/2023 11:30 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("07/23/2023 12:30 PM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/MS_07_23_public_key_cryptography.pdf",
+      event_pdf_filepath: "/nova_pdfs/MS_07_23_public-key_cryptography.pdf",
     },
     {
       cohort:"nova",
@@ -86,7 +86,7 @@ export const NovaCalendar = () => {
       start: moment("07/25/2023 10:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("07/25/2023 11:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/ES_07_25_caesar_cipher_2.pdf",
+      event_pdf_filepath: "/nova_pdfs/ES_07_23_07_25_encryption_and_decryption_activity",
     },
     {
       cohort:"nova",
@@ -104,7 +104,7 @@ export const NovaCalendar = () => {
       start: moment("07/30/2023 11:30 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("07/30/2023 12:30 PM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/MS_07_30_balloon_powered_car.pdf",
+      event_pdf_filepath: "/nova_pdfs/MS_07_30_balloon-powered_car.pdf",
     },
     {
       cohort:"nova",
@@ -158,7 +158,7 @@ export const NovaCalendar = () => {
       start: moment("08/13/2023 11:30 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("08/13/2023 12:30 PM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/MS_08_13_dialysis_tube/osmosis.pdf",
+      event_pdf_filepath: "/nova_pdfs/MS_08_13_dialysis_tube_osmosis.pdf",
     },
     {
       cohort:"nova",
