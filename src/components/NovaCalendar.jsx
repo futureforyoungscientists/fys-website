@@ -104,7 +104,7 @@ export const NovaCalendar = () => {
       start: moment("07/30/2023 11:30 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("07/30/2023 12:30 PM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/MS_07_30_balloon_powered_car.pdf",
+      event_pdf_filepath: "/nova_pdfs/MS_07_30_balloon-powered_car.pdf",
     },
     {
       cohort:"nova",
