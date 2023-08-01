@@ -23,19 +23,19 @@
   .nova-mobile .overlap-wrapper {
     background-color: #ffffff;
     border: 1px none;
-    height: 1968px;
+    height: 1868px;
     overflow: hidden;
     width: 100%;
   }
   
   .nova-mobile .overlap {
-    height: 1668px;
+    height: 1568px;
     position: relative;
     width: 100%;
   }
   
   .nova-mobile .header-section {
-    height: 1025px;
+    height: 925px;
     left: 0;
     position: absolute;
     top: 0;
@@ -44,7 +44,7 @@
   
   .nova-mobile .overlap-group {
     background-color: #002e36;
-    height: 1025px;
+    height: 925px;
     position: relative;
     width: 100%;
   }
@@ -182,4 +182,3 @@
     top: 1044px;
     width: 295px;
   }
-  
