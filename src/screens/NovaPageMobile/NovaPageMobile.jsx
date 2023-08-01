@@ -25,6 +25,8 @@ export const NovaPageMobile = () => {
                 </RevealFromRight>
                 <RevealFromLeft>
                   <p className="p">
+                  <b>To register, please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6VNziG3jx3IBjadWNmKJ3TbFVUoG_yIoLj9nUade5cZZpyw/viewform?usp=sf_link" target="_blank">here</a>.</b>
+                  <br/><br/>
                     We are a group of four students from Hicksville High School
                     who are all deeply passionate about STEM, and participate in
                     a variety of STEM-related activities including Science
@@ -45,10 +47,8 @@ export const NovaPageMobile = () => {
                     be accessed by clicking on the date and then clicking the
                     name of the experiment. You will be directed to a PDF
                     containing the materials for the experiment along with
-                    relevant information and links about the experiment as well.<br/><br/>
-
-                    <b>To register, please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6VNziG3jx3IBjadWNmKJ3TbFVUoG_yIoLj9nUade5cZZpyw/viewform?usp=sf_link">here</a>.</b>
-                  </p>
+                    relevant information and links about the experiment as well.
+                </p>
                 </RevealFromLeft>
               {/* </div> */}
             </div>

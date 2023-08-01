@@ -14,6 +14,9 @@ export const NovaPage = () => {
             <RevealFromLeft><CompactMenu/></RevealFromLeft>
             <RevealFromRight><h1 className="h-1">team nova</h1></RevealFromRight>
             <RevealFromLeft><p className="p">
+            <b>To register for our program, please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6VNziG3jx3IBjadWNmKJ3TbFVUoG_yIoLj9nUade5cZZpyw/viewform?usp=sf_link" target="_blank">here</a>.</b>
+
+            <br/> <br/>
               We are a group of four students from Hicksville High School who are all deeply passionate about STEM, 
               and participate in a variety of STEM-related activities including Science Olympiad and Robotics. Our 
               goal is to teach children from communities like ours where they may not have the money or available 
@@ -26,9 +29,9 @@ export const NovaPage = () => {
               the date and time of each class, as well the name of each experiment and a materials list. The materials
                list for each experiment can be accessed by clicking on the date and then clicking the name of the 
                experiment. You will be directed to a PDF containing the materials for the experiment along with relevant 
-               information and links about the experiment as well.<br/> <br/>
+               information and links about the experiment as well.
 
-              <b>To register, please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6VNziG3jx3IBjadWNmKJ3TbFVUoG_yIoLj9nUade5cZZpyw/viewform?usp=sf_link">here</a>.</b>
+              
             </p></RevealFromLeft>
           </div>
         </div>
