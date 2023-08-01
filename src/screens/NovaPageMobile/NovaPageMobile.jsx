@@ -46,7 +46,7 @@ export const NovaPageMobile = () => {
                     be accessed by clicking on the date and then clicking the
                     name of the experiment. You will be directed to a PDF
                     containing the materials for the experiment along with
-                    relevant information and links about the experiment as well.
+                    relevant information and links about the experiment as well.<br/><br/>
 
                     To register, please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6VNziG3jx3IBjadWNmKJ3TbFVUoG_yIoLj9nUade5cZZpyw/viewform?usp=sf_link">here</a>.
                   </p>
