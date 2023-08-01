@@ -36,8 +36,7 @@ export const NovaPageMobile = () => {
                     items in our experiments, and outreaching to children from
                     countries all around the world. We hope that through our
                     online classes, children from around the world and from all
-                    backgrounds will get to experience science in a unique and
-                    engaging way!
+                    backgrounds will get to experience science in a unique way!
                     <br /> <br />
                     Our classes are currently being held from July 9th to August
                     13th. On the calendar below, you can find the date and time
