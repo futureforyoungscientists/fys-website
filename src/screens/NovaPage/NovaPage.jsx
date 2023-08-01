@@ -27,10 +27,9 @@ export const NovaPage = () => {
                list for each experiment can be accessed by clicking on the date and then clicking the name of the 
                experiment. You will be directed to a PDF containing the materials for the experiment along with relevant 
                information and links about the experiment as well.
+
+              <b>To register, please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6VNziG3jx3IBjadWNmKJ3TbFVUoG_yIoLj9nUade5cZZpyw/viewform?usp=sf_link">here</a>.</b>
             </p></RevealFromLeft>
-            <RevealFromLeft>
-             <button type="button">Register now!</button> 
-            </RevealFromLeft>
           </div>
         </div>
         <div className="overlap">
