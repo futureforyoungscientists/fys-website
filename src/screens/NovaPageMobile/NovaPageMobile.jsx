@@ -25,6 +25,8 @@ export const NovaPageMobile = () => {
                 </RevealFromRight>
                 <RevealFromLeft>
                   <p className="p">
+                  <b>To register, please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6VNziG3jx3IBjadWNmKJ3TbFVUoG_yIoLj9nUade5cZZpyw/viewform?usp=sf_link" target="_blank">here</a>.</b>
+                  <br/><br/>
                     We are a group of four students from Hicksville High School
                     who are all deeply passionate about STEM, and participate in
                     a variety of STEM-related activities including Science
@@ -36,8 +38,7 @@ export const NovaPageMobile = () => {
                     items in our experiments, and outreaching to children from
                     countries all around the world. We hope that through our
                     online classes, children from around the world and from all
-                    backgrounds will get to experience science in a unique and
-                    engaging way!
+                    backgrounds will get to experience science in a unique way!
                     <br /> <br />
                     Our classes are currently being held from July 9th to August
                     13th. On the calendar below, you can find the date and time
@@ -47,7 +48,7 @@ export const NovaPageMobile = () => {
                     name of the experiment. You will be directed to a PDF
                     containing the materials for the experiment along with
                     relevant information and links about the experiment as well.
-                  </p>
+                </p>
                 </RevealFromLeft>
               {/* </div> */}
             </div>
