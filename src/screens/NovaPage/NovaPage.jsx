@@ -28,6 +28,9 @@ export const NovaPage = () => {
                experiment. You will be directed to a PDF containing the materials for the experiment along with relevant 
                information and links about the experiment as well.
             </p></RevealFromLeft>
+            <RevealFromLeft>
+             <button type="button">Register now!</button> 
+            </RevealFromLeft>
           </div>
         </div>
         <div className="overlap">
