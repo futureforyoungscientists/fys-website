@@ -95,7 +95,7 @@ export const NovaCalendar = () => {
       start: moment("07/30/2023 10:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("07/30/2023 11:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/ES_07_30_rock_candy_1.pdf",
+      event_pdf_filepath: "/nova_pdfs/ES_07_30_08_01_rock_candy.pdf",
     },
     {
       cohort:"nova",
@@ -113,7 +113,7 @@ export const NovaCalendar = () => {
       start: moment("08/01/2023 10:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("08/01/2023 11:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/ES_08_01_rock_candy_2.pdf",
+      event_pdf_filepath: "/nova_pdfs/ES_07_30_08_01_rock_candy.pdf",
     },
     {
       cohort:"nova",
