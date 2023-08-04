@@ -14,6 +14,7 @@ export const NebulaPage = () => {
             <RevealFromLeft><CompactMenu/></RevealFromLeft>
             <RevealFromRight><h1 className="h-1">team nebula</h1></RevealFromRight>
             <RevealFromLeft><p className="p">
+              <b> To register for our program, please click <a href="https://forms.gle/bTVcYWxsAbfTipbL8" target="_blank">here</a>.</b></b>
               Meet Team Nebula: Future For Young Scientists' first team of educators hailing across 
               different parts of the USA! Though each team member has been exposed to a different STEM 
               curriculum in their schools, all are driven by the same mission: to spread their deep passion 
