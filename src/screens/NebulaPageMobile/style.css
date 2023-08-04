@@ -9,7 +9,7 @@
   .nebula-mobile .overlap-wrapper {
     background-color: #ffffff;
     border: 1px none;
-    height: 2250px;
+    height: 2050px;
     overflow: hidden;
     width: 100%;
   }
@@ -28,7 +28,7 @@
   }
   
   .nebula-mobile .header-section {
-    height: 925px;
+    height: 975px;
     left: 0;
     position: absolute;
     top: 0;
@@ -37,7 +37,7 @@
   
   .nebula-mobile .overlap-group {
     background-color: #002e36;
-    height: 925px;
+    height: 975px;
     position: relative;
     width: 100%;
   }
@@ -133,7 +133,7 @@
     height: 1543px;
     left: 1px;
     position: absolute;
-    top: 925px;
+    top: 975px;
     width: 100%;
   }
   
