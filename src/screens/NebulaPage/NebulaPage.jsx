@@ -14,9 +14,9 @@ export const NebulaPage = () => {
             <RevealFromLeft><CompactMenu/></RevealFromLeft>
             <RevealFromRight><h1 className="h-1">team nebula</h1></RevealFromRight>
             <RevealFromLeft><p className="p">
-              <b> To register for our program, please click <a href="https://forms.gle/bTVcYWxsAbfTipbL8" target="_blank">here</a>.</b></b>
-
-              <br/> <br/>
+            <b>To register for classes, please click <a href="https://docs.google.com/forms/d/e/1FAIpQLScf9-_gfnF4dRkh35IDzga1oPcV_X6uPx4KWjGt4X7_1mgMdQ/viewform?usp=sf_link" target="_blank">here</a>.</b>
+            
+              <br/><br/>
               Meet Team Nebula: Future For Young Scientists' first team of educators hailing across 
               different parts of the USA! Though each team member has been exposed to a different STEM 
               curriculum in their schools, all are driven by the same mission: to spread their deep passion 
@@ -30,7 +30,8 @@ export const NebulaPage = () => {
               determined to spread awareness about FYS in their communities and ensure that the organization's 
               mission is fulfilled. 
               <br/> <br/>
-              Our classes are currently being held from August 12th to September 9th once a week on Saturdays. 
+                <b style={{ fontWeight: 800 }}>Our classes are currently being held from August 12th to September 9th once a week at 12-1pm on Saturdays. Links to Google Meet will be sent out via email 48 hours in advance and posted here!</b>
+              <br/> <br/> 
               On the calendar below, you can find the date and time of each class, as well the name of each 
               experiment and a materials list. The materials list for each experiment can be accessed by clicking 
               on the date and then clicking the name of the experiment. You will be directed to a PDF containing 

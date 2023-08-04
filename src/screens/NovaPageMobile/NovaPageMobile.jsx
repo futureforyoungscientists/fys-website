@@ -13,19 +13,12 @@ export const NovaPageMobile = () => {
           <div className="header-section">
             <div className="overlap-group">
               
-             <RevealFromLeft>
-                  <CompactMenu />
-                </RevealFromLeft>
-             
+             <RevealFromLeft><CompactMenu /></RevealFromLeft>
               {/* <div className="content-centering-container"> */}
-              
-                
-                <RevealFromRight>
-                  <div className="text-wrapper-3">team nova</div>
-                </RevealFromRight>
+                <RevealFromRight><div className="text-wrapper-3">team nova</div></RevealFromRight>
                 <RevealFromLeft>
                   <p className="p">
-                  <b>To register, please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6VNziG3jx3IBjadWNmKJ3TbFVUoG_yIoLj9nUade5cZZpyw/viewform?usp=sf_link" target="_blank">here</a>.</b>
+                  <b>To register for classes, please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6VNziG3jx3IBjadWNmKJ3TbFVUoG_yIoLj9nUade5cZZpyw/viewform?usp=sf_link" target="_blank">here</a>.</b>
                   <br/><br/>
                     We are a group of four students from Hicksville High School
                     who are all deeply passionate about STEM, and participate in

@@ -14,7 +14,7 @@ export const NovaPage = () => {
             <RevealFromLeft><CompactMenu/></RevealFromLeft>
             <RevealFromRight><h1 className="h-1">team nova</h1></RevealFromRight>
             <RevealFromLeft><p className="p">
-            <b>To register for our program, please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6VNziG3jx3IBjadWNmKJ3TbFVUoG_yIoLj9nUade5cZZpyw/viewform?usp=sf_link" target="_blank">here</a>.</b>
+            <b>To register for classes, please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSd6VNziG3jx3IBjadWNmKJ3TbFVUoG_yIoLj9nUade5cZZpyw/viewform?usp=sf_link" target="_blank">here</a>.</b>
 
             <br/> <br/>
               We are a group of four students from Hicksville High School who are all deeply passionate about STEM, 

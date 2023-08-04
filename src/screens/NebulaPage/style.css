@@ -10,14 +10,14 @@
 .nebula .div {
   background-color: #ffffff;
   border: 1px none;
-  height: 1893px;
+  height: 2200px;
   overflow: hidden;
   position: relative;
   width: 100%;
 }
 
 .nebula .nebula-top {
-  height: 810px;
+  height: 900px;
   left: 0;
   position: absolute;
   top: 0;
@@ -26,7 +26,7 @@
 
 .nebula .overlap-group {
   background-color: #002e36;
-  height: 810px;
+  height: 900px;
   position: relative;
   width: 100%;
 }
@@ -120,7 +120,7 @@
   height: 2483px;
   left: 0;
   position: absolute;
-  top: 810px;
+  top: 900px;
   width: 100%;
 }
 
