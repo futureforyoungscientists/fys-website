@@ -138,9 +138,9 @@
 
 .main-page .selection-group {
   height: 137px;
-  left: 870px;
   position: absolute;
   top: 48px;
+  right: 50px;
   width: 566px;
 }
 
