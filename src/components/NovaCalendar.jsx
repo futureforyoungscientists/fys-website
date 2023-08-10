@@ -122,7 +122,7 @@ export const NovaCalendar = () => {
       start: moment("08/06/2023 10:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("08/06/2023 11:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/ES_08_06_leaf_pigment_extraction_1.pdf",
+      event_pdf_filepath: "/nova_pdfs/ES_08_06_08_08_leaf_pigment_extraction.pdf",
     },
     {
       cohort:"nova",
@@ -140,7 +140,7 @@ export const NovaCalendar = () => {
       start: moment("08/08/2023 10:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("08/08/2023 11:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/ES_08_08_leaf_pigment_extraction_2.pdf",
+      event_pdf_filepath: "/nova_pdfs/ES_08_06_08_08_leaf_pigment_extraction.pdf",
     },
     {
       cohort:"nova",
