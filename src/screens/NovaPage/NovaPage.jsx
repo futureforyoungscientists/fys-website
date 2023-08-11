@@ -30,8 +30,6 @@ export const NovaPage = () => {
                list for each experiment can be accessed by clicking on the date and then clicking the name of the 
                experiment. You will be directed to a PDF containing the materials for the experiment along with relevant 
                information and links about the experiment as well.
-
-              
             </p></RevealFromLeft>
           </div>
         </div>

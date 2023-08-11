@@ -169,7 +169,6 @@ export const NovaCalendar = () => {
       allDay: false,
       event_pdf_filepath: "/nova_pdfs/ES_08_15_sea_level_activity_2.pdf",
     }
-  
   ];
 
   const handleEventClick = (event) => {

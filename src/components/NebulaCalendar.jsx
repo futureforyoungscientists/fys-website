@@ -1,5 +1,4 @@
 import { Calendar, momentLocalizer } from 'react-big-calendar'
-import { useRef } from 'react'
 import moment from 'moment'
 import "react-big-calendar/lib/css/react-big-calendar.css"
 
@@ -7,10 +6,7 @@ const localizer = momentLocalizer(moment)
 
 export const NebulaCalendar = () => {
 
-  const width = useRef([window.innerWidth, window.innerHeight]).current[0];
-
-  const myEventsList = [
-     const myEventsList = [
+    const myEventsList = [
     {
       cohort:"nebula",
       group:"elem",
@@ -24,17 +20,17 @@ export const NebulaCalendar = () => {
       cohort:"nebula",
       group:"elem",
       title: "Volcano (Baking Soda and Vinegar)",
-      start: moment("07/09/2023 12:00 PM", "MM/DD/YYYY h:mm A").toDate(),
-      end: moment("07/09/2023 1:00 PM", "MM/DD/YYYY h:mm A").toDate(),
+      start: moment("08/19/2023 12:00 PM", "MM/DD/YYYY h:mm A").toDate(),
+      end: moment("08/19/2023 1:00 PM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
       event_pdf_filepath: "nebula_pdfs/Baking Soda and Vinegar.pdf",
     },
     {
-      cohort:"nnebula",
+      cohort:"nebula",
       group:"elem",
       title: "Spacetime/Gravity Model",
-      start: moment("07/11/2023 12:00 PM", "MM/DD/YYYY h:mm A").toDate(),
-      end: moment("07/11/2023 1:00 PM", "MM/DD/YYYY h:mm A").toDate(),
+      start: moment("08/26/2023 12:00 PM", "MM/DD/YYYY h:mm A").toDate(),
+      end: moment("08/26/2023 1:00 PM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
       event_pdf_filepath: "/nebula_pdfs/Spacetime Gravity Model.pdf",
     }
@@ -66,5 +62,4 @@ export const NebulaCalendar = () => {
           />
     </div>
     )
-  
 }
