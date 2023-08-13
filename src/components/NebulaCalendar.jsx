@@ -23,7 +23,7 @@ export const NebulaCalendar = () => {
       start: moment("08/19/2023 12:00 PM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("08/19/2023 1:00 PM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "nebula_pdfs/Baking Soda and Vinegar.pdf",
+      event_pdf_filepath: "/nebula_pdfs/Baking Soda and Vinegar.pdf",
     },
     {
       cohort:"nebula",
@@ -33,6 +33,24 @@ export const NebulaCalendar = () => {
       end: moment("08/26/2023 1:00 PM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
       event_pdf_filepath: "/nebula_pdfs/Spacetime Gravity Model.pdf",
+    },
+    {
+      cohort:"nebula",
+      group:"elem",
+      title: "Oil Spills",
+      start: moment("09/02/2023 12:00 PM", "MM/DD/YYYY h:mm A").toDate(),
+      end: moment("09/02/2023 1:00 PM", "MM/DD/YYYY h:mm A").toDate(),
+      allDay: false,
+      event_pdf_filepath: "/nebula_pdfs/Cleaning Oil Spills.pdf",
+    },
+    {
+      cohort:"nebula",
+      group:"elem",
+      title: "Capillary Action",
+      start: moment("09/09/2023 12:00 PM", "MM/DD/YYYY h:mm A").toDate(),
+      end: moment("09/09/2023 1:00 PM", "MM/DD/YYYY h:mm A").toDate(),
+      allDay: false,
+      event_pdf_filepath: "/nebula_pdfs/Toothpick Capillary Action.pdf",
     }
   ];
 
