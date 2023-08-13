@@ -37,7 +37,7 @@ export const NebulaCalendar = () => {
     {
       cohort:"nebula",
       group:"elem",
-      title: "Oil Spills",
+      title: "Cleaning Oil Spills",
       start: moment("09/02/2023 12:00 PM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("09/02/2023 1:00 PM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
@@ -46,7 +46,7 @@ export const NebulaCalendar = () => {
     {
       cohort:"nebula",
       group:"elem",
-      title: "Capillary Action",
+      title: "Capillary Action with Toothpicks",
       start: moment("09/09/2023 12:00 PM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("09/09/2023 1:00 PM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
