@@ -158,7 +158,7 @@ export const NovaCalendar = () => {
       start: moment("08/13/2023 11:30 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("08/13/2023 12:30 PM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/MS_08_13_dialysis_tube_osmosis.pdf",
+      event_pdf_filepath: "/nova_pdfs/MS_08-13_Potato_Strawberry_Osmosis.pdf",
     },
     {
       cohort:"nova",
