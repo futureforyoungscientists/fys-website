@@ -149,16 +149,16 @@ export const NovaCalendar = () => {
       start: moment("08/13/2023 10:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("08/13/2023 11:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/ES_08_13_sea_level_activity_1.pdf",
+      event_pdf_filepath: "/nova_pdfs/ES_08_13_08_15_sea_level_activity.pdf",
     },
     {
       cohort:"nova",
       group:"middle",
-      title: "MS: Dialysis Tube/Osmosis",
+      title: "MS: Osmosis",
       start: moment("08/13/2023 11:30 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("08/13/2023 12:30 PM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/MS_08-13_Potato_Strawberry_Osmosis.pdf",
+      event_pdf_filepath: "/nova_pdfs/MS_08_13_osmosis.pdf",
     },
     {
       cohort:"nova",
@@ -167,7 +167,7 @@ export const NovaCalendar = () => {
       start: moment("08/15/2023 10:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       end: moment("08/15/2023 11:00 AM", "MM/DD/YYYY h:mm A").toDate(),
       allDay: false,
-      event_pdf_filepath: "/nova_pdfs/ES_08_15_sea_level_activity_2.pdf",
+      event_pdf_filepath: "/nova_pdfs/ES_08_13_08_15_sea_level_activity.pdf",
     }
   ];
 
